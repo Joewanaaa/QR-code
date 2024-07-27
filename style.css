@@ -24,10 +24,11 @@ body{
     padding: 10px;
 }
 
- #text h5{
+ #text h1{
     font-weight: 700;
     padding: 10px;
     color:hsl(218, 44%, 22%);
+    font-size: 1.25rem;
 }
 
 #text p{
