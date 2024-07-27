@@ -16,6 +16,7 @@ body{
 #qr-code{
     height: 270px;
     width: 270px;
+    margin-top: 15px;
 }
  
 #main-col{
