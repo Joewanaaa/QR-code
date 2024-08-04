@@ -17,8 +17,8 @@ body{
 #qr-code{
     height: 270px;
     width: 270px;
-    margin-top: 10px;
-    margin-left: -1.5%;
+    margin-top: 8%;
+    margin-left: 1%;
 }
  
 
@@ -26,7 +26,8 @@ body{
     font-weight: 700;
     padding: 5px;
     color:hsl(218, 44%, 22%);
-    font-size: 1.20rem;
+    font-size: 1.25rem;
+    text-align: center;
 }
 
 p{
@@ -36,5 +37,5 @@ p{
 }
 
 .card{
-    width: 18rem;
+    width: 19rem;
 }
