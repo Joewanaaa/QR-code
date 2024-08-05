@@ -2,29 +2,19 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Joewanaaa/QR-code)
+- Live Site URL: [https://qr-code-component-bsp3apksy-joewanaaas-projects.vercel.app/](https://qr-code-component-bsp3apksy-joewanaaas-projects.vercel.app/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
+- Semantic
+- CSS
+- Bootstrap
 - Mobile-first workflow
-- [Bootstrap](https://getbootstrap.com/) - For styles
 
 ### What I learned
 
@@ -38,10 +28,4 @@ I'll continue to study more about the the differences of the sizing (%,px,rem) a
 
 - [Bootstrap - Card component](https://getbootstrap.com/docs/5.3/components/card/) - This help me a lot with the layout, specially when resizing the card. I have tried doing it on my own but margins, padding don't work, obviously I need to learn more because it was not the padding or margins I need to adjust BUT the width which was already included in the style.
 All in all bootstrap document preety much helped me with everything I needed.
-
-## Author
-
-- Website - [Joana Roguel](https://www.your-site.com)
-- Frontend Mentor - [@Joewanaaa](https://www.frontendmentor.io/profile/Joewanaaa)
-- LinkedIn - [Joana Ma. Lupe Roguel](www.linkedin.com/in/joanaroguel)
 
